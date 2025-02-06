@@ -62,7 +62,7 @@ This project is about semantic segmentation of plant organs into 4 classes + Bac
 
 >Farouk EL BAHA
 >
-> Junior ML & DL Engineer
+> ML Engineer
 >
 > e-mail: alfarouk.elbaha@gmail.com
 >
